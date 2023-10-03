@@ -26,8 +26,7 @@
 
 <h2>Meu Portfólio</h2>
 
-<p>Neste perfil, você encontrará exemplos dos meus projetos, nos quais utilizo de tecnologias váriadas para criar e me desevolver como Dev. 
-Fique à vontade para explorar os projetos individuais, clonar este repositório e experimentar você mesmo!</p>
+<p>Neste perfil, você encontrará exemplos dos meus projetos. Fique à vontade para explorar os projetos individuais, clonar este repositório e experimentar você mesmo!</p>
 
 <h2>Como Colaborar</h2>
 
