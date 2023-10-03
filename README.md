@@ -14,7 +14,7 @@
 
 <h2>Meu Portfólio</h2>
 
-<p>Neste repositório, você encontrará exemplos dos meus projetos anteriores, nos quais utilizo de tecnologias váriadas para criar designs modernos e funcionais. 
+<p>Neste perfil, você encontrará exemplos dos meus projetos, nos quais utilizo de tecnologias váriadas para criar e me desevolver como programador. 
 Fique à vontade para explorar os projetos individuais, clonar este repositório e experimentar você mesmo!</p>
 
 <h2>Como Colaborar</h2>
@@ -23,6 +23,6 @@ Fique à vontade para explorar os projetos individuais, clonar este repositório
 
 <h2>Contato</h2>
 
-<p>Você pode me encontrar nas redes sociais ou enviar um e-mail para <a href="camaraedson595@gmail.com" target="_blank">camaraedson595@gmail.com</a> se quiser entrar em contato. Estou ansioso para conhecer outros desenvolvedores e aprender mais sobre o mundo da programação.</p>
+<p>Você pode me encontrar nas redes sociais para entrar em contato. Estou ansioso para conhecer outros desenvolvedores e aprender mais sobre o mundo da programação.</p>
 </body>
 
