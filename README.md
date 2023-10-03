@@ -34,8 +34,13 @@ Fique à vontade para explorar os projetos individuais, clonar este repositório
 <p>Você pode me encontrar nas redes sociais para entrar em contato. Estou ansioso para conhecer outros desenvolvedores e aprender mais sobre o mundo da programação.</p>
 
 <br>
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white <a href="https://api.whatsapp.com/send?phone=5554981212665" target="_blank"></a>"/> 
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white <a href="https://www.instagram.com/edsoncamarafilhoo/" target="_blank"></a>"/>
 
+<a href="https://api.whatsapp.com/send?phone=5554981212665">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+</a>
+
+<a href="https://www.instagram.com/edsoncamarafilhoo/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+</a>
 </body>
 
