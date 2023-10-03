@@ -1,3 +1,7 @@
+<style>
+  max-width: 400px;min-width: 400px;
+</style>
+<body>
 <h1>Meu Portfólio</h1>
 
 <p>Bem-vindo ao meu repositório GitHub! Aqui você encontrará informações sobre meu portfólio pessoal, onde demonstro minhas habilidades em HTML5, CSS3, Git e GitHub.</p>
@@ -23,4 +27,6 @@ Fique à vontade para explorar os projetos individuais, clonar este repositório
 
 <h2>Contato</h2>
 
-<p>Você pode me encontrar nas redes sociais ou enviar um e-mail para <a href="camaraedson595@gmail.com">Edson Câmara Filho</a> se quiser entrar em contato. Estou ansioso para conhecer outros desenvolvedores e aprender mais sobre o mundo da programação.</p>
+<p>Você pode me encontrar nas redes sociais ou enviar um e-mail para <a href="camaraedson595@gmail.com">camaraedson595@gmail.com</a> se quiser entrar em contato. Estou ansioso para conhecer outros desenvolvedores e aprender mais sobre o mundo da programação.</p>
+</body>
+
