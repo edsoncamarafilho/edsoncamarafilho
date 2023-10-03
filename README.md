@@ -1,6 +1,6 @@
-<h1>Meu Portfólio</h1>
+<h1>Meu README</h1>
 
-<p>Bem-vindo ao meu repositório GitHub! Aqui você encontrará informações sobre meu portfólio pessoal, onde demonstro minhas habilidades em HTML5, CSS3, Git e GitHub, Bootstrap e estudando para me aprimorar em mais tecnologias</p>
+<p>Bem-vindo ao meu repositório GitHub! Aqui você encontrará informações sobre meu portfólio pessoal, onde exploro minhas habilidades em HTML5, CSS3, Git e GitHub, Bootstrap e estudo para me aprimorar em mais tecnologias</p>
 
 <h2>Sobre Mim</h2>
 
