@@ -14,10 +14,13 @@
   
 </p>
 
-<ul style="padding: 10px; margin: 10px;">
+<ul>
   <li><strong>HTML5:</strong> Sou proficiente em HTML5, a linguagem fundamental da web, que utilizo para estruturar o conteúdo das minhas páginas.</li>
+  <br>
   <li><strong>CSS3:</strong> Estou construindo experiência para criar estilos elegantes e responsivos com CSS3 para garantir que minhas páginas sejam visualmente atraentes e funcionem bem em dispositivos diferentes.</li>
+   <br>
   <li><strong>Git e GitHub:</strong> Estou estudando e me aprimorando em controle de versão com Git e utilizo o GitHub para hospedar meus projetos, colaborar com outros desenvolvedores e acompanhar o histórico de alterações.</li>
+   <br>
   <li><strong>Bootstrap:</strong> Também estou aprendendo com o Bootstrap, um framework CSS popular, que uso para acelerar o desenvolvimento de interfaces responsivas e com um visual moderno.</li>
 </ul>
 
