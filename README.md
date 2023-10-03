@@ -1,5 +1,6 @@
 <style>
-  max-width: 400px;min-width: 400px;
+ body{
+   max-width: 400px;min-width: 400px;}
 </style>
 <body>
 <h1>Meu Portfólio</h1>
