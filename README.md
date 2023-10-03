@@ -33,6 +33,7 @@ Fique à vontade para explorar os projetos individuais, clonar este repositório
 
 <p>Você pode me encontrar nas redes sociais para entrar em contato. Estou ansioso para conhecer outros desenvolvedores e aprender mais sobre o mundo da programação.</p>
 
+<br>
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 
