@@ -1,6 +1,6 @@
 <h1>Meu README</h1>
 
-<p>Bem-vindo ao meu repositório GitHub! Aqui você encontrará informações sobre meu portfólio pessoal, onde exploro minhas habilidades em HTML5, CSS3, Git e GitHub, Bootstrap e estudo para me aprimorar em mais tecnologias</p>
+<p>Bem-vindo ao meu repositório GitHub! Aqui você encontrará informações sobre meu portfólio pessoal, onde exploro minhas habilidades em HTML5, CSS3, Git e GitHub, Bootstrap e estudo para me aprimorar mais.</p>
 
 <h2>Sobre Mim</h2>
 
@@ -15,7 +15,7 @@
 </p>
 
 <ul>
-  <li><strong>HTML5:</strong> Sou proficiente em HTML5, a linguagem fundamental da web, que utilizo para estruturar o conteúdo das minhas páginas.</li>
+  <li><strong>HTML5:</strong> Sou um pequeno gafanhoto em HTML5, a linguagem fundamental da web, que utilizo para estruturar o conteúdo das minhas páginas.</li>
   <br>
   <li><strong>CSS3:</strong> Estou construindo experiência para criar estilos elegantes e responsivos com CSS3 para garantir que minhas páginas sejam visualmente atraentes e funcionem bem em dispositivos diferentes.</li>
    <br>
@@ -26,7 +26,7 @@
 
 <h2>Meu Portfólio</h2>
 
-<p>Neste perfil, você encontrará exemplos dos meus projetos, nos quais utilizo de tecnologias váriadas para criar e me desevolver como programador. 
+<p>Neste perfil, você encontrará exemplos dos meus projetos, nos quais utilizo de tecnologias váriadas para criar e me desevolver como Dev. 
 Fique à vontade para explorar os projetos individuais, clonar este repositório e experimentar você mesmo!</p>
 
 <h2>Como Colaborar</h2>
@@ -46,5 +46,6 @@ Fique à vontade para explorar os projetos individuais, clonar este repositório
 <a href="https://www.instagram.com/edsoncamarafilhoo/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
 </a>
+
 </body>
 
