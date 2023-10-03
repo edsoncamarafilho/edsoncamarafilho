@@ -4,15 +4,14 @@
 
 <h2>Sobre Mim</h2>
 
-<p>Meu nome é Edson Câmara Filho, e sou um dev entusiasta por criar interfaces e aprender sobre o mundo da programação. Tenho conhecimento e experiência básica (Por enquanto) nas seguintes tecnologias:</p>
-<br>
-<br>
+<p>Meu nome é Edson Câmara Filho, e sou um dev entusiasta por criar interfaces e aprender sobre o mundo da programação. Tenho conhecimento e experiência básica (Por enquanto) nas seguintes tecnologias:
+
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white"/>
-  
+<img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white"/>  
 
+</p>
 
 <ul>
   <li><strong>HTML5:</strong> Sou um pequeno gafanhoto em HTML5, a linguagem fundamental da web, que utilizo para estruturar o conteúdo das minhas páginas.</li>
