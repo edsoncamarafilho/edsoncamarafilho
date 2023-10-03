@@ -4,8 +4,8 @@
 
 <h2>Sobre Mim</h2>
 
-<p>Meu nome é Edson Câmara Filho, e sou um dev entusiasta por criar interfaces e aprender sobre o mundo da programação. Tenho conhecimento e experiência básica (Por enquanto) nas seguintes tecnologias:
-
+<p>Meu nome é Edson Câmara Filho, e sou um dev entusiasta por criar interfaces e aprender sobre o mundo da programação. Tenho conhecimento e experiência básica (Por enquanto) nas seguintes tecnologias:<br>
+<br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
