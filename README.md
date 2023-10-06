@@ -10,18 +10,7 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white"/>  
-
 </p>
-
-<ul>
-  <li><strong>HTML5:</strong> Sou um pequeno gafanhoto em HTML5, a linguagem fundamental da web, que utilizo para estruturar o conteúdo das minhas páginas.</li>
-  <br>
-  <li><strong>CSS3:</strong> Estou construindo experiência para criar estilos elegantes e responsivos com CSS3 para garantir que minhas páginas sejam visualmente atraentes e funcionem bem em dispositivos diferentes.</li>
-   <br>
-  <li><strong>Git e GitHub:</strong> Estou estudando e me aprimorando em controle de versão com Git e utilizo o GitHub para hospedar meus projetos, colaborar com outros desenvolvedores e acompanhar o histórico de alterações.</li>
-   <br>
-  <li><strong>Bootstrap:</strong> Também estou aprendendo com o Bootstrap, um framework CSS popular, que uso para acelerar o desenvolvimento de interfaces responsivas e com um visual moderno.</li>
-</ul>
 
 <h2>Meu Portfólio</h2>
 
